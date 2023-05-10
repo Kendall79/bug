@@ -1,2 +1,2 @@
 # bug
-Write a bug(s) program
+writing bug
